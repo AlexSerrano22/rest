@@ -1,0 +1,22 @@
+.imprimir{
+  width: 16em;
+  word-wrap:break-word;
+  border: medium;
+  page-break-inside: auto;
+  font-weight: bold;
+  text-align: center;
+}
+.tabla{
+	border-color: red;
+	width: 100%;
+}
+
+.num{
+	text-align: right;
+}
+@page {
+  size: 4cm;
+  margin: 0px 5px 0px 5px;
+
+}
+
